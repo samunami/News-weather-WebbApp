@@ -4,7 +4,4 @@
 Как его запустить у себя:
 1. Создайте файл конфигурации (config.py) в папке «webApp»
 2. Из файла «config.example.py» скопируйте содержимое в созданный config.py в папке webApp. 
-###WEATHER_URL = 'http://api.weatherapi.com/v1/current.json'
-###WEATHER_API_KEY = 'your_api_key_here'  # Замените своим действующим API-ключом (но заработает и так без погоды)
-###WEATHER_DEFAULT_CITY = 'Rostov-on-Don,Russia' # Можно поменять на свой город/страну.
 3. Запустите файл run.py.
